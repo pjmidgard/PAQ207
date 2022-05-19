@@ -6,7 +6,7 @@ Author's Jurijus Pacalovas
 PAQ207:
 
 
-Here PAQ207 100000-((99999+1011)101,109)=varitions 0000-1011 compress 1100000-1111111 Compress all zeroes and pi and we get PAQ 207 compression Algorithm Xyyyy-Xy1yy+1 make it bigger 98988
+Here PAQ207 100000-((99999+1011)101,109)=varitions 0000-1011 compress 1100000-1111111 Compress all zeroes and pi and we get PAQ207 compression Algorithm Xyyyy-Xy1yy+1 make it bigger 98988
 
 
 1011
